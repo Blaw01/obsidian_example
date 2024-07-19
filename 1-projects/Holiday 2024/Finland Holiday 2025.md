@@ -1,6 +1,5 @@
 
-# 3 Key Pointd
-
+# Key Points
 ## Summary
 
 ## Recommended further reading
