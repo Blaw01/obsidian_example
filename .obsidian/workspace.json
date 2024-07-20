@@ -4,144 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21b4cbe7ae6b4d3c",
-        "type": "tabs",
-        "dimension": 42.34800838574424,
-        "children": [
-          {
-            "id": "7d9efe2c62fd49fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "937cd728f9988310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/PARA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bab4c79c1bce51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-resources/Learning Vim/Vim Keybindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74284adfbd8af10c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/I want to go to brazil one day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "114fa58d22fc3457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-resources/Learning Vim/Vim Keybindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f63f9c8524ba5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/I also want to visit the Philippines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f8de84323d6d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Hello World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e88e52ec385b50c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Git Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce512c02081c3179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Zettel template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f361a808b50d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Holiday 2024/Finland Holiday 2025.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
         "id": "9273064867440f5e",
         "type": "tabs",
-        "dimension": 57.65199161425576,
         "children": [
           {
             "id": "ee14cd0250ef48df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Check.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -210,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Holiday 2024/Finland Holiday 2025.md",
+                "file": "0-inbox/Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Holiday 2024/Finland Holiday 2025.md",
+                "file": "0-inbox/Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Holiday 2024/Finland Holiday 2025.md"
+                "file": "0-inbox/Check.md"
               }
             }
           }
@@ -272,25 +147,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85f361a808b50d4d",
+  "active": "ee14cd0250ef48df",
   "lastOpenFiles": [
-    "0-inbox/Untitled.md",
-    "1-projects/Holiday 2024/Finland Holiday 2025.md",
-    "1-projects/Holiday 2024/Untitled",
+    "4 Archives/Welcome.md",
+    "4 Archives/PARA.md",
+    "3-resources/Learning Vim/Vim Keybindings.md",
+    "0-inbox/I want to go to brazil one day.md",
+    "2-areas/I also want to visit the Philippines.md",
+    "0-inbox/Hello World.md",
+    "0-inbox/Git Test.md",
     "Templates/Zettel template.md",
+    "1-projects/Holiday 2024/Finland Holiday 2025.md",
+    "0-inbox/Untitled.md",
+    "1-projects/Holiday 2024/Untitled",
     "0-inbox/Hello World 2.md",
     "0-inbox/Check.md",
     "Templates",
-    "0-inbox/Git Test.md",
-    "0-inbox/Hello World.md",
-    "2-areas/I also want to visit the Philippines.md",
     "1-projects/Holiday 2024/Planning Holiday 2024.md",
-    "0-inbox/I want to go to brazil one day.md",
     "0-inbox/My test note.md",
     "2-areas/Tech blog/Article - New AG for Containers in Azure.md",
     "2-areas/Tech blog",
     "1-projects/Holiday 2024/Visiting.md",
-    "3-resources/Learning Vim/Vim Keybindings.md",
     "3-resources/Learning Vim/Learning-Vim.md",
     "3-resources/Learning Vim",
     "1-projects/Holiday 2024",
@@ -300,9 +177,7 @@
     "1-projects/Holiday 2024/Planning Holiday for 2024",
     "1-projects/Holiday 2024",
     "Test inbox note.md",
-    "4 Archives/PARA.md",
     "4 Archives",
-    "3-resources",
-    "4 Archives/Welcome.md"
+    "3-resources"
   ]
 }
